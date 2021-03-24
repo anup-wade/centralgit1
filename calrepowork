@@ -1,1 +1,9 @@
-addd one more line 
+addd one more line hey
+hey hey hey 
+
+
+total = sum(5,7)
+total1 = sub(7,4)
+total2 = multiple(3,9)
+total3 = divide(8,4)
+:wq
